@@ -1,3 +1,4 @@
+#include <unistd.h>
 void myputstr (const char *str)
 {
 
